@@ -2,4 +2,4 @@
 ## 使い方(今度書く)
 #Special Thanks
 
-[Milkey](URL)
+[Milked/Milkey_Hack](https://github.com/yutodadil)
