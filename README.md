@@ -1,5 +1,5 @@
 # DisRaider
 ## 使い方(今度書く)
-#Special Thanks
+# Special Thanks
 
 [Milked/Milkey_Hack](https://github.com/yutodadil)
